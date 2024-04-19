@@ -8,10 +8,11 @@ export const Hero = () => {
     <div className={styles.content}>
         <h1 className={styles.title}>Aradhana</h1>
         <p className={styles.description}>
-            I am a web developer, also I like making 3D modles in 
-            blender, and sometimes I also make games.
+        I specialize in web development and 3D modeling with 
+        Blender, complemented by game design expertise. Passionate
+         about crafting immersive digital experiences.
         </p>
-        <a href="mailto:aradhanajadeja81@gmail.com" className={styles.contactBtn}>Contact Me</a>
+        <a href="mailto:aradhanadevijadeja1@gmail.com" className={styles.contactBtn}>Contact Me</a>
     </div>
     <img src={getImageUrl("hero/try.jpeg")} alt="My Image" className={styles.heroImg} />
     <div className={styles.topBlur} />

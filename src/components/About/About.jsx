@@ -14,28 +14,31 @@ export const About = () => {
             />
         <ul className={styles.aboutItems}>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/cursorIcon.png")} alt="Arrow"/>
+                <img src={getImageUrl("about/cursor.png")} alt="Arrow"/>
                 <div className={styles.aboutItemsText}>
                     <h3>Front End Developer</h3>
-                    <p>I'm front end dev with experince of making 
-                    wonder responsive website.
+                    <p>Front End Developer adept at crafting visually stunning and responsive websites. 
+                        Proficient in React.js, JavaScript, and HTML, with a keen eye for design and usability.
                     </p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/serverIcon.png")} alt="Arrow"/>
+                <img src={getImageUrl("about/server.png")} alt="Arrow"/>
                 <div className={styles.aboutItemsText}>
                     <h3>Back End Developer</h3>
-                    <p>I know how to use backend using node js.
+                    <p>Seasoned Backend Developer proficient in creating robust and scalable web applications. 
+                        Expertise in technologies such as Node.js,Express, and MongoDB, ensuring seamless
+                        functionality and optimal performance.
                     </p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/uiIcon.png")} alt="Arrow"/>
+                <img src={getImageUrl("about/modeling.png")} alt="Arrow"/>
                 <div className={styles.aboutItemsText}>
-                    <h3>UI/UX Designer</h3>
-                    <p>I'm front end dev with experince of making 
-                    wonder responsive website.
+                    <h3>3D Modeling</h3>
+                    <p>Experienced 3D Modeler proficient in Blender, with a keen eye for detail and
+                         creativity. Specializing in creating captivating visual assets and
+                          immersive environments for a variety of projects.
                     </p>
                 </div>
             </li>

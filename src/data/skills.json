@@ -1,5 +1,9 @@
 [
   {
+    "title": "Blender",
+    "imageSrc": "skills/blender.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -16,15 +20,15 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Shell Script",
+    "imageSrc": "skills/bash.png"
+  },
+  {
+    "title": "Unity",
+    "imageSrc": "skills/unity.png"
   }
 ]

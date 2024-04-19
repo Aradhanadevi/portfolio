@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "WayfarerWanderer",
+    "imageSrc": "projects/project1.png",
+    "description": "This project is a hotel booking website developed during a hackathon. Leveraging technologies such as React, Express, and Node.js, it offers a seamless booking experience for travelers.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://wayfarer-wanderer.vercel.app/",
+    "source": "https://github.com/Aradhanadevi/Wayfarer-Wanderer.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "3D Model Gallery",
+    "imageSrc": "projects/project2.png",
+    "description": "Explore a React-based 3D Model Gallery featuring Blender's .glb files, brought to life with Three.js. Immerse in digital artistry where creativity meets dazzling technology." ,
+    "skills": ["React", "Express", "Node", "3DModeling", "three.js"],
+    "demo": "https://github.com/Aradhanadevi/3DModel-Gallery.git",
+    "source": "https://github.com/Aradhanadevi/3DModel-Gallery.git"
   }
 ]
