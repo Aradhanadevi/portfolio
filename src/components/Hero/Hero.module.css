@@ -82,7 +82,7 @@
     top: -128px;
     left: 10vh;
     border-radius: 764px;
-    background: rgba(25, 55, 109, 0.7);
+    background: rgba(52, 49, 108, 0.7);
     filter: blur(100px);
     z-index: 0;
 }
@@ -97,7 +97,7 @@
     left: 10vh;
     right: -25vw;
     border-radius: 764px;
-    background: rgba(25, 55, 109, 0.7);
+    background: rgba(52, 49, 108, 0.7);
     filter: blur(100px);
     z-index: 0;
 }
