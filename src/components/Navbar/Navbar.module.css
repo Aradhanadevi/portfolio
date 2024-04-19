@@ -9,7 +9,7 @@
     z-index: 2;
     margin: 0 10%;
 
-}
+} 
 
 .title{
     font-size: 30px;
@@ -17,6 +17,10 @@
     text-decoration: none;
     color: var(--color-text);
 }
+
+.menuBtn {
+    display: none;
+  }
 
 .menu{
     display: flex;

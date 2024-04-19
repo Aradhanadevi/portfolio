@@ -15,10 +15,7 @@ export const Experiance = () => {
                     return (
                     <div key={id} className={styles.skill}>
                         <div className={styles.skillImageContainer}>
-                            <img 
-                            src={getImageUrl(skill.imageSrc)} 
-                            alt={skill.title}
-                            />
+                            <img src={getImageUrl(skill.imageSrc)} alt={skill.title}/>
                         </div>
                         <p>{skill.title}</p>
                     </div>
@@ -46,10 +43,10 @@ export const Experiance = () => {
                             </ul>
                         </div>
                     </li>
-                    )
+                    );
                 })}
-        </ul>
-    </div>
+            </ul>
+        </div>
    </section>
-  )
-}
+  );
+};
