@@ -14,5 +14,21 @@
     "skills": ["React", "Express", "Node", "3DModeling", "three.js"],
     "demo": "https://github.com/Aradhanadevi/3DModel-Gallery.git",
     "source": "https://github.com/Aradhanadevi/3DModel-Gallery.git"
+  },
+  {
+    "title": "Laptop Shoping Gallery",
+    "imageSrc": "projects/project3.png",
+    "description": "This gallery features intuitive navigation, detailed specifications, and a seamless user experience, making it the go-to destination for finding the perfect laptop match." ,
+    "skills": ["React", "Node", "MongoDb"],
+    "demo": "https://github.com/Aradhanadevi/MERN.git",
+    "source": "https://github.com/Aradhanadevi/MERN.git"
+  },
+  {
+    "title": "ShellProgram",
+    "imageSrc": "projects/project4.png",
+    "description": "Interactive shell script for user engagement: greets based on time, offers file and directory management, arithmetic operations, and system information retrieval through a menu-driven interface." ,
+    "skills": ["ShellScript"],
+    "demo": "https://github.com/Aradhanadevi/shellScripts.git",
+    "source": "https://github.com/Aradhanadevi/shellScripts.git"
   }
 ]
